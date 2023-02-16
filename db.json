@@ -1,0 +1,31 @@
+{
+  "navs": [
+    {
+      "name": "About",
+      "link": "/about",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "HomePage",
+      "link": "/"
+    },
+    {
+      "name": "Contact",
+      "link": "/contact",
+      "id": 3
+    }
+  ],
+  "socialMedia": [
+    {
+      "id": 1,
+      "name": "Youtube update",
+      "link": "https://www.facebook.com/Ngoctuyen137/"
+    },
+    {
+      "name": "Facebook",
+      "link": "https://www.facebook.com/Ngoctuyen137/",
+      "id": 2
+    }
+  ]
+}

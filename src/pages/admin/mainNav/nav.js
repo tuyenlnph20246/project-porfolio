@@ -1,7 +1,6 @@
 
 import content from "@/components/adminComponents/content"
 import sidebar from "@/components/adminComponents/sidebar"
-
 const NavAdminPage = () => {
   return (
     `
